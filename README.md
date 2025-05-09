@@ -1,4 +1,4 @@
-# Statistical Exploration and Inference of Cirrhosis Death Rates: A Comprehensive Study on Skewness Correction, Outlier Analysis, and Enhancement ofNormality and Statistical Validity.
+# Statistical Exploration and Inference of Cirrhosis Death Rates: A Comprehensive Study on Skewness Correction, Outlier Analysis, and Enhancement of Normality and Statistical Validity.
 This project investigates cirrhosis-related mortality across U.S. states using statistical inference techniques. The analysis includes data exploration, assessment of normality, outlier treatment, data transformation, and hypothesis testing to determine whether the average death rate is significantly different from a national reference threshold.
 # Objectives:
 > Explore and summarize cirrhosis death rate data.
