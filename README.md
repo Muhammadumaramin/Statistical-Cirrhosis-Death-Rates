@@ -5,7 +5,7 @@ This project investigates cirrhosis-related mortality across U.S. states using s
 > Assess the distribution for skewness and outliers.
 > Apply transformations to improve normality.
 > Construct a 95% confidence interval for the mean.
-> Perform hypothesis testing against a benchmark (48.33 deaths per 100,000).
+> Perform hypothesis testing against a benchmark (48.33 deaths).
 > Compare multiple transformation techniques (log, square root).
 > Evaluate the impact of retaining vs. removing outliers.
 # Project Structure:
